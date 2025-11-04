@@ -18,9 +18,10 @@ Communication Diagram
 Sequence Diagram
 
 Actors Used-:
-Student
 
-Faculty
+Staff
+
+People
 
 Librarian
 
